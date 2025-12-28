@@ -3,14 +3,6 @@
 ## 🎯 Project Overview
 **BrainGuard** is an AI-powered medical imaging system designed to assist in the **early detection of neurological conditions** by automatically classifying brain MRI scans.
 
-The system categorizes MRI images into **four clinically relevant classes**:
-
-- **Glioma** — Tumors originating from glial cells  
-- **Meningioma** — Tumors arising from the meninges  
-- **Pituitary** — Tumors affecting the pituitary gland  
-- **Healthy** — No pathological findings detected  
-
-BrainGuard aims to support radiologists by providing **fast, consistent, and explainable AI-based screening**.
 
 ---
 
@@ -110,11 +102,6 @@ BrainGuard delivers **rapid and reliable MRI classification**, helping medical p
 - Strong F1-scores
 - Confusion matrix–based evaluation
 
-### Per-Class Analysis
-- **Glioma:** Strong tumor detection
-- **Meningioma:** Reliable meningeal tumor identification
-- **Healthy:** High confidence in normal scans
-- **Pituitary:** Accurate classification of pituitary conditions
 
 ### Error Analysis
 - Systematic review of misclassifications
